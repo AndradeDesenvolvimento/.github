@@ -62,17 +62,4 @@ Este repositório está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## 🎨 Extras Visuais (opcional)
-
-- Desenvolvimento de software moderno  
-  ![Coding Illustration](https://undraw.io/api/illustrations/4f5e453f-3289-4930-95b3-e144e1cdbeb8)  
-- Deploy em nuvem  
-  ![Cloud Deployment](https://undraw.io/api/illustrations/8a3679d2-c0f4-41c5-8190-d22e91b5d636)  
-- Colaboração e time ágil  
-  ![Team Collaboration](https://undraw.io/api/illustrations/8e8fae22-0a29-4954-85d4-84c775174196)
-
-Essas imagens são gratuitas do [undraw.co](https://undraw.co/illustrations) e podem ser trocadas conforme o tom que quiser dar à organização.
-
----
-
 🚀 **Obrigado por visitar nossa organização no GitHub. Fique à vontade para explorar e colaborar!**
